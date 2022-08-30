@@ -874,6 +874,7 @@
 0.0.0.0 sulkybutter.com
 0.0.0.0 summerhamster.com
 0.0.0.0 summerobject.com
+0.0.0.0 superficialeyes.com
 0.0.0.0 superficialsink.com
 0.0.0.0 superficialsquare.com
 0.0.0.0 supplysummer.com
@@ -909,6 +910,7 @@
 0.0.0.0 terriblethumb.com
 0.0.0.0 terribleturkey.com
 0.0.0.0 terrificgoose.com
+0.0.0.0 terrifictooth.com
 0.0.0.0 teschenite.com
 0.0.0.0 testedtouch.com
 0.0.0.0 texturetrick.com
