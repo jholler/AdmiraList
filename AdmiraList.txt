@@ -327,6 +327,7 @@
 0.0.0.0 faultyfowl.com
 0.0.0.0 fearfowl.com
 0.0.0.0 fearfulfish.com
+0.0.0.0 fearlessfaucet.com
 0.0.0.0 feebleshock.com
 0.0.0.0 fifthborder.com
 0.0.0.0 finalizeforce.com
